@@ -5,4 +5,5 @@ seaborn
 pandas
 wordcloud
 Sastrawi
-webdriver
+selenium
+webdriver-manager
