@@ -1,9 +1,9 @@
 streamlit
-pymongo
-matplotlib
-seaborn
-pandas
-wordcloud
-Sastrawi
 selenium
 webdriver-manager
+pandas
+matplotlib
+seaborn
+wordcloud
+Sastrawi
+pymongo
